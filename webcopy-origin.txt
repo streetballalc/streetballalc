@@ -1,0 +1,136 @@
+Uri: https://preview.colorlib.com/theme/strategy/index.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\index-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/A.css,,_bootstrap.min.css+css,,_aos.min.css+css,,_hamburgers,,_hamburgers.min.css+css,,_owl.carousel.min.css+fonts,,_icomoon,,_style.css+css,,_animsition.min.css,Mcc.NZwISwF-xw.css.pagespeed.cf.RlIALItP_d.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\A.css,,_bootstrap.min.css css,,_aos.min.css css,,_hamburgers,,_hamburgers.min.css css,,_owl.carousel.min.css fonts,,_icomoon,,_style.css css,,_animsition.min.css,Mcc.NZwISwF-xw.css.pagespeed.c-1.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\ajax\libs\font-awesome\4.7.0\css\font-awesome.min-1.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/strategy/css/A.style.css.pagespeed.cf.yihjJjQE0r.css
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\css\A.style.css.pagespeed.cf.yihjJjQE0r-1.css
+Content Type: text/css
+
+Uri: https://preview.colorlib.com/theme/strategy/work.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\work-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/about.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\about-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/blog.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\blog-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/contact.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\contact-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/work-single.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\work-single-1.html
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/blog-single.html
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\blog-single-1.html
+Content Type: text/html
+
+Uri: https://colorlib.com/
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\index-1.htm
+Content Type: text/html
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_1.jpg.pagespeed.ic.FRCzlULBnP.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_1.jpg.pagespeed.ic.FRCzlULBnP-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_2.jpg.pagespeed.ic.q9A6dKBwWD.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_2.jpg.pagespeed.ic.q9A6dKBwWD-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_3.jpg.pagespeed.ic.t6OX-mwi1f.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_3.jpg.pagespeed.ic.t6OX-mwi1f-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_4.jpg.pagespeed.ic.kMno-5s8QN.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_4.jpg.pagespeed.ic.kMno-5s8QN-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_5.jpg.pagespeed.ic.mU4ZyWiuyg.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_5.jpg.pagespeed.ic.mU4ZyWiuyg-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/js/scripts-all.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\js\scripts-all-1.js
+Content Type: application/javascript
+
+Uri: https://preview.colorlib.com/theme/strategy/js/main.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-23581568-13
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\gtag\js-1.js
+Content Type: application/javascript
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\beacon.min-1.js
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/theme/strategy/fonts/icomoon/fonts/icomoon.eot?f194zt
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\fonts\icomoon\fonts\icomoon-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://preview.colorlib.com/theme/strategy/fonts/icomoon/fonts/icomoon.ttf?f194zt
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\fonts\icomoon\fonts\icomoon-1.ttf
+Content Type: font/ttf
+
+Uri: https://preview.colorlib.com/theme/strategy/fonts/icomoon/fonts/icomoon.woff?f194zt
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\fonts\icomoon\fonts\icomoon-1.woff
+Content Type: font/woff
+
+Uri: https://preview.colorlib.com/theme/strategy/fonts/icomoon/fonts/icomoon.svg?f194zt
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\fonts\icomoon\fonts\icomoon-1.svg
+Content Type: image/svg+xml
+
+Uri: https://preview.colorlib.com/theme/strategy/images/hero_2.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\hero_2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/xperson_1.jpg.pagespeed.ic.wyHPGsvIE0.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\xperson_1.jpg.pagespeed.ic.wyHPGsvIE0-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/xperson_2.jpg.pagespeed.ic.RNV17L10BD.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\xperson_2.jpg.pagespeed.ic.RNV17L10BD-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/xperson_3.jpg.pagespeed.ic.SfZqKN2Qdo.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\xperson_3.jpg.pagespeed.ic.SfZqKN2Qdo-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/xhero_1.jpg.pagespeed.ic.OUIK2vidK1.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\xhero_1.jpg.pagespeed.ic.OUIK2vidK1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/xhero_3.jpg.pagespeed.ic.qXjXHvUC7E.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\xhero_3.jpg.pagespeed.ic.qXjXHvUC7E.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/js/main.js+google-map.js.pagespeed.jc.QqrYkM40JB.js
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\js\main.js google-map.js.pagespeed.jc.QqrYkM40JB-1.js
+Content Type: application/javascript
+
+Uri: https://maps.googleapis.com/maps/api/js?key=AIzaSyBVWaKrjvy3MaE7SQ74_uJiULgl1JY0H2s&sensor=false
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\maps\api\js-1
+Content Type: text/javascript
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_2_large.jpg.pagespeed.ic.icskD_An9a.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_2_large.jpg.pagespeed.ic.icskD_An9a-1.jpg
+Content Type: image/jpeg
+
+Uri: https://preview.colorlib.com/theme/strategy/images/ximg_1_large.jpg.pagespeed.ic.euzU39Rji8.jpg
+File Name: C:\Downloaded Web Sites\preview.colorlib.com\theme\strategy\images\ximg_1_large.jpg.pagespeed.ic.euzU39Rji8-1.jpg
+Content Type: image/jpeg
+
